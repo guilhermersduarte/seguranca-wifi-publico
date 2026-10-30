@@ -3,7 +3,7 @@
 
 **Tema:** segurança no uso de redes Wi-Fi públicas e redes sem fio  
 **Integrantes:** Guilherme Rocha de Souza Duarte (RA 10730632) e Gustavo Leal Gomes (RA 10738069)  
-**Prazo acadêmico informado:** 12/11/2026
+
 
 ## Sobre o projeto
 Este repositório reúne materiais educativos para ajudar usuários a reconhecer riscos associados ao uso de redes Wi-Fi públicas e adotar medidas simples de proteção. O conteúdo foi elaborado para fins educativos e não substitui orientações técnicas específicas de uma organização.
