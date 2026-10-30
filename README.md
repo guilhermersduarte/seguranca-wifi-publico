@@ -26,6 +26,22 @@ Pessoas que utilizam Wi-Fi em locais como cafeterias, restaurantes, aeroportos, 
 | `04-infografico/conteudo-infografico.md` | Texto-base para produção do infográfico |
 | `referencias/fontes-bibliograficas.md` | Fontes institucionais e referências |
 
+seguranca-wifi-publico/
+│
+├── 01-material-educativo/
+├── 02-casos-praticos/
+├── 03-avaliacoes/
+├── 04-infografico/
+├── 05-guias-pdf/
+├── 06-estudo-academico/
+│   ├── metodologia/
+│   ├── dados/
+│   ├── analise/
+│   └── resultados/
+├── 07-imagens/
+├── referencias/
+└── README.md
+
 O roteiro do vídeo autoral será incluído posteriormente, após a finalização dos demais materiais.
 
 ## Mensagem central
