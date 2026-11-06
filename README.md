@@ -46,6 +46,7 @@ A pasta [`05-estudo-academico/`](05-estudo-academico/) reúne um estudo explorat
 4. Responda ao quiz e ao teste final.
 5. Consulte as referências para aprofundamento.
 6. Para uma análise com dados, gráficos e estatísticas, abra o estudo em `05-estudo-academico/`.
+7. Para distribuir o conteúdo ao público, imprima a cartilha em 06-cartilha/ ou compartilhe os infográficos de 04-infografico/.
 
 ## Aviso educativo
 Os exemplos são fictícios e foram criados para fins de conscientização. Não forneça senhas, códigos de autenticação, dados bancários ou documentos pessoais em atividades demonstrativas.
