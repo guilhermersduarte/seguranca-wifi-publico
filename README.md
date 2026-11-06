@@ -29,6 +29,7 @@ Pessoas que utilizam Wi-Fi em locais como cafeterias, restaurantes, aeroportos, 
 | `05-estudo-academico/estudo-wifi-publico.html` | Versão HTML do estudo, para leitura sem Jupyter |
 | `05-estudo-academico/dados/` | Bases em CSV, dicionário de dados e modelo do teste com pessoas |
 | `05-estudo-academico/figuras/` | Gráficos do estudo (PNG) |
+| `06-cartilha/cartilha-wifi-publico.pdf` | Cartilha de práticas seguras (12 páginas, A5) para impressão e distribuição |
 
 O roteiro do vídeo autoral será incluído posteriormente, após a finalização dos demais materiais.
 
