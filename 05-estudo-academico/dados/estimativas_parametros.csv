@@ -1,0 +1,13 @@
+parametro,valor,unidade,tipo,derivacao_ou_fonte,observacao
+vitimas_estimadas_fbsp,26.3,milhões,entrada,dino2026 (pesquisa FBSP; data a confirmar),Número divulgado de pessoas vítimas de golpe online no último ano.
+proporcao_vitimas_fbsp,0.158,fração,entrada,dino2026 (pesquisa FBSP; data a confirmar),"15,8% da população com 16 anos ou mais."
+estelionato_eletronico_2025,346753,registros,entrada,dino2026 (Anuário FBSP 2026),Registros policiais de estelionato por meio eletrônico.
+variacao_eletronico_2025,0.206,fração,entrada,dino2026 (Anuário FBSP 2026),"Alta de 20,6% sobre o ano anterior."
+dias_ano,365,dias,premissa,calendário,Ano de 365 dias.
+fraude_cert_2025,24030,notificações,entrada,opservices2026,Notificações de fraude ao CERT.br em 2025.
+phishing_cert_2025,22818,notificações,entrada,opservices2026; dino2026,Subconjunto de fraude.
+share_wifi_aberto_hma,0.3263,fração,entrada,hma_conv,Brasileiros que ainda se conectam a Wi-Fi aberto (ano e amostra não informados).
+cenarios_share_wifi_aberto,0.10; 0.20; 0.3263; 0.50,fração,premissa,definida pelos autores,"Cenários de sensibilidade; 0,10, 0,20 e 0,50 são premissas ilustrativas, não medições."
+alfa,0.05,fração,premissa,convenção estatística,Nível de significância bilateral usado na análise de poder.
+poder_alvo,0.8,fração,premissa,convenção estatística,Poder estatístico desejado.
+palavras_por_minuto,200,palavras/min,premissa,definida pelos autores,Velocidade de leitura assumida para estimar tempo de leitura (aproximação).

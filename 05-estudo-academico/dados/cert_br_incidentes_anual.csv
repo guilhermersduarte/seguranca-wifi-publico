@@ -1,0 +1,15 @@
+ano,periodo,total_notificacoes,tipo_dado_total,fraude_notificacoes,tipo_dado_fraude,fonte_id,observacao
+2013,ano completo,352925,publicado,85675,publicado,cgibr2014,Total e fraude publicados no balanço de 2013 do CERT.br.
+2014,ano completo,1047031,publicado,467621,publicado,nicbr2015,Pico da série; 467.621 notificações de tentativas de fraude.
+2015,ano completo,722205,publicado,,,certbr2020ensi,Total lido em lâmina do CERT.br (série 1999-2020).
+2016,ano completo,647112,publicado,,,certbr2020ensi,Total lido em lâmina do CERT.br (série 1999-2020).
+2017,ano completo,833775,publicado,59319,publicado,nicbr2018,"Fraude: queda de 42% em relação a 2016, segundo o release."
+2018,ano completo,676514,publicado,,,certbr2019forum,"Fraude correspondeu a 5,57% do total (ver cert_br_tipos_incidentes.csv)."
+2019,ano completo,875327,publicado,,,nicbr2020,Total publicado no release do NIC.br.
+2020,ano completo,665079,publicado,30580,publicado,certbr2020analise,Total 24% menor que 2019; fraude 22% menor que 2019.
+2021,ano completo,457270,publicado,,,certbr2022trf1,Volume informado em lâmina do CERT.br (2021).
+2022,ano completo,481811,derivado,,,opservices2026,"Derivado: 621.537 / 1,290 (variação de +29,0% informada para 2023). Não é valor publicado."
+2023,ano completo,621537,publicado,,,opservices2026,Compilação de OpServices a partir de stats.cert.br.
+2024,ano completo,516556,publicado,,,opservices2026,Compilação de OpServices a partir de stats.cert.br.
+2025,ano completo,470885,publicado,24030,publicado,opservices2026; dino2026,Fraude: 22.818 phishing e 1.212 malware.
+2026,jan-jun,274443,publicado,12581,publicado,opservices2026,Parcial (1º semestre); não usar como ano completo.

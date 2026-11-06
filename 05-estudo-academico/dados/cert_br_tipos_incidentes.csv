@@ -1,0 +1,29 @@
+periodo,tipo,notificacoes,percentual,tipo_dado,fonte_id,observacao
+2018,Scan,,58.77,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,DoS,,23.42,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,Fraude,,5.57,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,Web,,6.09,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,Worm,,5.78,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,Invasão,,0.16,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2018,Outros,,0.22,percentual publicado,certbr2019forum,Scans reportados não incluem scans realizados por worms.
+2020 (jan-jun),Scan,,58.81,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),DoS,,14.49,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),Fraude,,5.66,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),Web,,2.76,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),Worm,,17.46,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),Invasão,,0.19,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2020 (jan-jun),Outros,,0.63,percentual publicado,certbr2020ensi,Primeiro semestre de 2020.
+2025,Scan,393919,83.66,contagem publicada,opservices2026,
+2025,DoS,26418,5.61,contagem publicada,opservices2026,
+2025,Fraude,24030,5.1,contagem publicada,opservices2026,
+2025,Web,19965,4.24,contagem publicada,opservices2026,
+2025,Invasão,3729,0.79,contagem publicada,opservices2026,
+2025,Demais categorias (resto),2824,,derivado,opservices2026,Resto = total menos as cinco categorias listadas.
+2026 (jan-jun),Scan,205058,74.72,contagem publicada,opservices2026,
+2026 (jan-jun),DoS,48153,17.55,contagem publicada,opservices2026,
+2026 (jan-jun),Fraude,12581,4.58,contagem publicada,opservices2026,
+2026 (jan-jun),Web,3255,1.19,contagem publicada,opservices2026,
+2026 (jan-jun),Invasão,1890,0.69,contagem publicada,opservices2026,
+2026 (jan-jun),Demais categorias (resto),3506,,derivado,opservices2026,Resto = total menos as cinco categorias listadas.
+2025,Fraude: phishing,22818,,contagem publicada,opservices2026; dino2026,Subconjunto de Fraude.
+2025,Fraude: malware,1212,,contagem publicada,opservices2026,Subconjunto de Fraude.
